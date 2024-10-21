@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/sabreen786
   gitUsername: sabreen786
   gitBranch: main
+services:
+- serviceName: project.sirfpro1.integrations:AddNumbers
+  packages:
+  - name: SirfPro1Project
+    version: "1.0"
+- serviceName: pub.math:addFloats
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2014
