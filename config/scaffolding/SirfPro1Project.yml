@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SirfPro1Project
+  gitServerName: sabreen786
+  gitUrl: https://github.com/sabreen786
+  gitUsername: sabreen786
+  gitBranch: main
